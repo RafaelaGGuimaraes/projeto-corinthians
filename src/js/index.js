@@ -1,5 +1,3 @@
-alert('Oi, seja bem vindo ao meu primeiro projeto usando HTML, CSS e JS');
-
 const btnAvancar = document.getElementById("btn-avancar");
 const btnVoltar = document.getElementById("btn-voltar");
 const cartoes = document.querySelectorAll(".cartao");
